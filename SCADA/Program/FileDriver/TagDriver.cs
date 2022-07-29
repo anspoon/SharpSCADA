@@ -21,7 +21,7 @@ namespace FileDriver
             }
         }
 
-        short _id;//内存及文件中的地址与ID相关
+        readonly short _id;//内存及文件中的地址与ID相关
         public short ID
         {
             get

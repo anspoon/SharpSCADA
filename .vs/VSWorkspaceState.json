@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SCADA",
+    "\\SCADA\\Program",
+    "\\SCADA\\Program\\DataHelper"
+  ],
+  "SelectedNode": "\\SCADA\\Program\\DataHelper\\MysqlFactory.cs",
+  "PreviewInSolutionExplorer": false
+}

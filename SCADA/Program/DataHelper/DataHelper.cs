@@ -13,7 +13,7 @@ namespace DatabaseLib
 {
     public static class DataHelper
     {
-        static string m_ConnStr = @"Data Source=.\SQLEXPRESS;Initial Catalog=SharpSCADA;Integrated Security=True";
+        static string m_ConnStr = @"Data Source=CHENMING\SAGE;Initial Catalog=SCADA;Integrated Security=True";
         static string m_Path = @"D:\HDA";
         static string m_host = Environment.MachineName;
         static string m_type = "MSSQL";

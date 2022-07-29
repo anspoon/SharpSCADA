@@ -76,8 +76,8 @@
             <RowDefinition Height="40"/>
         </Grid.RowDefinitions>
         <Canvas Panel.ZIndex="1000">
-            <Label Canvas.Left="1449" Canvas.Top="2" Content="SharpSCADA" Height="96" Name="label1" Width="448" FontSize="72" FontWeight="Bold" Foreground="#FF007DBE" FontFamily="Segoe UI" />
-            <Label Canvas.Left="1704" Canvas.Top="92" Content="测 试 系 统 演 示" Height="42" Name="label2" Width="194" FontSize="24" FontWeight="Bold" FontFamily="Microsoft Tai Le" Foreground="#FF67B6DE" IsEnabled="False" />
+            <Label Canvas.Left="932.116" Content=" T-MES HMI" Height="96" Name="label1" Width="448" FontSize="72" FontWeight="Bold" Foreground="#FF007DBE" FontFamily="Segoe UI" HorizontalAlignment="Left" VerticalAlignment="Top" />
+            <Label Canvas.Left="1385" Canvas.Top="35" Content="反应车间人机界面" Height="61" Name="label2" Width="428" FontSize="36" FontWeight="Bold" FontFamily="Microsoft Tai Le" Foreground="#FF67B6DE" IsEnabled="False" HorizontalAlignment="Center" VerticalAlignment="Center" />
         </Canvas>
         <Border x:Name="cvs1" Margin="0,0,0,0" Grid.RowSpan="2">
         </Border>

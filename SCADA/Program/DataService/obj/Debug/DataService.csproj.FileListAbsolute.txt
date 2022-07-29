@@ -1,0 +1,6 @@
+D:\Projects\SharpSCADA\SCADA\Program\DataService\bin\Debug\DataService.dll
+D:\Projects\SharpSCADA\SCADA\Program\DataService\bin\Debug\DataService.pdb
+D:\Projects\SharpSCADA\SCADA\Program\DataService\obj\Debug\DataService.csproj.AssemblyReference.cache
+D:\Projects\SharpSCADA\SCADA\Program\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+D:\Projects\SharpSCADA\SCADA\Program\DataService\obj\Debug\DataService.dll
+D:\Projects\SharpSCADA\SCADA\Program\DataService\obj\Debug\DataService.pdb

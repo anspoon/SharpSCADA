@@ -22,5 +22,10 @@ namespace CoreTest
         {
             InitializeComponent();
         }
+
+        private void Tacho_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+        {
+
+        }
     }
 }
