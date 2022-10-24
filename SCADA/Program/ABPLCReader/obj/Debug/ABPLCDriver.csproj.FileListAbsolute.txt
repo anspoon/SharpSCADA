@@ -2,8 +2,6 @@ D:\Projects\SharpSCADA\SCADA\Program\ABPLCReader\bin\Debug\ABPLCReader.dll
 D:\Projects\SharpSCADA\SCADA\Program\ABPLCReader\bin\Debug\ABPLCReader.pdb
 D:\Projects\SharpSCADA\SCADA\Program\ABPLCReader\bin\Debug\DataService.dll
 D:\Projects\SharpSCADA\SCADA\Program\ABPLCReader\bin\Debug\DataService.pdb
-D:\Projects\SharpSCADA\SCADA\Program\ABPLCReader\obj\Debug\ABPLCDriver.csproj.AssemblyReference.cache
-D:\Projects\SharpSCADA\SCADA\Program\ABPLCReader\obj\Debug\ABPLCDriver.csproj.CoreCompileInputs.cache
-D:\Projects\SharpSCADA\SCADA\Program\ABPLCReader\obj\Debug\ABPLCDriver.csproj.CopyComplete
 D:\Projects\SharpSCADA\SCADA\Program\ABPLCReader\obj\Debug\ABPLCReader.dll
 D:\Projects\SharpSCADA\SCADA\Program\ABPLCReader\obj\Debug\ABPLCReader.pdb
+D:\Projects\SharpSCADA\SCADA\Program\ABPLCReader\obj\Debug\ABPLCDriver.csprojResolveAssemblyReference.cache

@@ -2,7 +2,6 @@ D:\Projects\SharpSCADA\SCADA\Program\HMIControl\bin\Debug\HMIControl.dll
 D:\Projects\SharpSCADA\SCADA\Program\HMIControl\bin\Debug\HMIControl.pdb
 D:\Projects\SharpSCADA\SCADA\Program\HMIControl\bin\Debug\Microsoft.Expression.Controls.dll
 D:\Projects\SharpSCADA\SCADA\Program\HMIControl\bin\Debug\Microsoft.Expression.Drawing.dll
-D:\Projects\SharpSCADA\SCADA\Program\HMIControl\obj\Debug\HMIControl.csproj.AssemblyReference.cache
 D:\Projects\SharpSCADA\SCADA\Program\HMIControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
 D:\Projects\SharpSCADA\SCADA\Program\HMIControl\obj\Debug\HMIControl_MarkupCompile.cache
 D:\Projects\SharpSCADA\SCADA\Program\HMIControl\obj\Debug\HMIControl_MarkupCompile.lref
@@ -10,7 +9,5 @@ D:\Projects\SharpSCADA\SCADA\Program\HMIControl\obj\Debug\Themes\Generic.baml
 D:\Projects\SharpSCADA\SCADA\Program\HMIControl\obj\Debug\HMIControl.g.resources
 D:\Projects\SharpSCADA\SCADA\Program\HMIControl\obj\Debug\HMIControl.Properties.Resources.resources
 D:\Projects\SharpSCADA\SCADA\Program\HMIControl\obj\Debug\HMIControl.csproj.GenerateResource.cache
-D:\Projects\SharpSCADA\SCADA\Program\HMIControl\obj\Debug\HMIControl.csproj.CoreCompileInputs.cache
-D:\Projects\SharpSCADA\SCADA\Program\HMIControl\obj\Debug\HMIControl.csproj.CopyComplete
 D:\Projects\SharpSCADA\SCADA\Program\HMIControl\obj\Debug\HMIControl.dll
 D:\Projects\SharpSCADA\SCADA\Program\HMIControl\obj\Debug\HMIControl.pdb

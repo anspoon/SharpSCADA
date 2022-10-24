@@ -1,0 +1,7 @@
+D:\Projects\SharpSCADA\SCADA\Program\DDEDriver\bin\Debug\DDEDriver.dll
+D:\Projects\SharpSCADA\SCADA\Program\DDEDriver\bin\Debug\DDEDriver.pdb
+D:\Projects\SharpSCADA\SCADA\Program\DDEDriver\bin\Debug\DataService.dll
+D:\Projects\SharpSCADA\SCADA\Program\DDEDriver\bin\Debug\DataService.pdb
+D:\Projects\SharpSCADA\SCADA\Program\DDEDriver\obj\x86\Debug\DDEDriver.csprojResolveAssemblyReference.cache
+D:\Projects\SharpSCADA\SCADA\Program\DDEDriver\obj\x86\Debug\DDEDriver.dll
+D:\Projects\SharpSCADA\SCADA\Program\DDEDriver\obj\x86\Debug\DDEDriver.pdb

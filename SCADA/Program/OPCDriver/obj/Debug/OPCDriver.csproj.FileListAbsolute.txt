@@ -4,8 +4,6 @@ D:\Projects\SharpSCADA\SCADA\Program\OPCDriver\bin\Debug\DataService.dll
 D:\Projects\SharpSCADA\SCADA\Program\OPCDriver\bin\Debug\OPCLib.dll
 D:\Projects\SharpSCADA\SCADA\Program\OPCDriver\bin\Debug\DataService.pdb
 D:\Projects\SharpSCADA\SCADA\Program\OPCDriver\bin\Debug\OPCLib.pdb
-D:\Projects\SharpSCADA\SCADA\Program\OPCDriver\obj\Debug\OPCDriver.csproj.AssemblyReference.cache
-D:\Projects\SharpSCADA\SCADA\Program\OPCDriver\obj\Debug\OPCDriver.csproj.CoreCompileInputs.cache
-D:\Projects\SharpSCADA\SCADA\Program\OPCDriver\obj\Debug\OPCDriver.csproj.CopyComplete
 D:\Projects\SharpSCADA\SCADA\Program\OPCDriver\obj\Debug\OPCDriver.dll
 D:\Projects\SharpSCADA\SCADA\Program\OPCDriver\obj\Debug\OPCDriver.pdb
+D:\Projects\SharpSCADA\SCADA\Program\OPCDriver\obj\Debug\OPCDriver.csprojResolveAssemblyReference.cache

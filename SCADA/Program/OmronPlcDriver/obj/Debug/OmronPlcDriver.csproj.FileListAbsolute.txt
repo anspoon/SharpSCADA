@@ -2,8 +2,6 @@ D:\Projects\SharpSCADA\SCADA\Program\OmronPlcDriver\bin\Debug\OmronPlcDriver.dll
 D:\Projects\SharpSCADA\SCADA\Program\OmronPlcDriver\bin\Debug\OmronPlcDriver.pdb
 D:\Projects\SharpSCADA\SCADA\Program\OmronPlcDriver\bin\Debug\DataService.dll
 D:\Projects\SharpSCADA\SCADA\Program\OmronPlcDriver\bin\Debug\DataService.pdb
-D:\Projects\SharpSCADA\SCADA\Program\OmronPlcDriver\obj\Debug\OmronPlcDriver.csproj.AssemblyReference.cache
-D:\Projects\SharpSCADA\SCADA\Program\OmronPlcDriver\obj\Debug\OmronPlcDriver.csproj.CoreCompileInputs.cache
-D:\Projects\SharpSCADA\SCADA\Program\OmronPlcDriver\obj\Debug\OmronPlcDriver.csproj.CopyComplete
 D:\Projects\SharpSCADA\SCADA\Program\OmronPlcDriver\obj\Debug\OmronPlcDriver.dll
 D:\Projects\SharpSCADA\SCADA\Program\OmronPlcDriver\obj\Debug\OmronPlcDriver.pdb
+D:\Projects\SharpSCADA\SCADA\Program\OmronPlcDriver\obj\Debug\OmronPlcDriver.csprojResolveAssemblyReference.cache

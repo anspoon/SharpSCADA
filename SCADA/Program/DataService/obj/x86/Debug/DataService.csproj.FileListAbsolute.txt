@@ -1,0 +1,4 @@
+D:\Projects\SharpSCADA\SCADA\Program\DataService\bin\Debug\DataService.dll
+D:\Projects\SharpSCADA\SCADA\Program\DataService\bin\Debug\DataService.pdb
+D:\Projects\SharpSCADA\SCADA\Program\DataService\obj\x86\Debug\DataService.dll
+D:\Projects\SharpSCADA\SCADA\Program\DataService\obj\x86\Debug\DataService.pdb

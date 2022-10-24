@@ -2,8 +2,6 @@ D:\Projects\SharpSCADA\SCADA\Program\PanasonicDriver\bin\Debug\PanasonicDriver.d
 D:\Projects\SharpSCADA\SCADA\Program\PanasonicDriver\bin\Debug\PanasonicDriver.pdb
 D:\Projects\SharpSCADA\SCADA\Program\PanasonicDriver\bin\Debug\DataService.dll
 D:\Projects\SharpSCADA\SCADA\Program\PanasonicDriver\bin\Debug\DataService.pdb
-D:\Projects\SharpSCADA\SCADA\Program\PanasonicDriver\obj\Debug\PanasonicDriver.csproj.AssemblyReference.cache
-D:\Projects\SharpSCADA\SCADA\Program\PanasonicDriver\obj\Debug\PanasonicDriver.csproj.CoreCompileInputs.cache
-D:\Projects\SharpSCADA\SCADA\Program\PanasonicDriver\obj\Debug\PanasonicDriver.csproj.CopyComplete
 D:\Projects\SharpSCADA\SCADA\Program\PanasonicDriver\obj\Debug\PanasonicDriver.dll
 D:\Projects\SharpSCADA\SCADA\Program\PanasonicDriver\obj\Debug\PanasonicDriver.pdb
+D:\Projects\SharpSCADA\SCADA\Program\PanasonicDriver\obj\Debug\PanasonicDriver.csprojResolveAssemblyReference.cache

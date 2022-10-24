@@ -1,0 +1,5 @@
+D:\Projects\SharpSCADA\SCADA\Program\OPCLib\bin\x86\Debug\OPCLib.dll
+D:\Projects\SharpSCADA\SCADA\Program\OPCLib\bin\x86\Debug\OPCLib.pdb
+D:\Projects\SharpSCADA\SCADA\Program\OPCLib\obj\x86\Debug\OPCLib.csprojResolveAssemblyReference.cache
+D:\Projects\SharpSCADA\SCADA\Program\OPCLib\obj\x86\Debug\OPCLib.dll
+D:\Projects\SharpSCADA\SCADA\Program\OPCLib\obj\x86\Debug\OPCLib.pdb

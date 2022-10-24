@@ -18,7 +18,6 @@ D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\bin\Debug\K4os.Hash.xxHash
 D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\bin\Debug\System.Numerics.Vectors.dll
 D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\bin\Debug\ClientDriver.pdb
 D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\bin\Debug\DataHelper.pdb
-D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\bin\Debug\DataHelper.dll.config
 D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\bin\Debug\DataService.pdb
 D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\bin\Debug\MySql.Data.xml
 D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\bin\Debug\Google.Protobuf.pdb
@@ -30,12 +29,9 @@ D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\bin\Debug\System.Buffers.x
 D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\bin\Debug\K4os.Compression.LZ4.xml
 D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\bin\Debug\K4os.Hash.xxHash.xml
 D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\bin\Debug\System.Numerics.Vectors.xml
-D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\obj\x86\Debug\BatchCoreService.csproj.AssemblyReference.cache
-D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\obj\x86\Debug\BatchCoreService.csproj.SuggestedBindingRedirects.cache
 D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\obj\x86\Debug\BatchCoreService.BatchCoreService.resources
 D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\obj\x86\Debug\BatchCoreService.ProjectInstaller.resources
 D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\obj\x86\Debug\BatchCoreService.csproj.GenerateResource.cache
-D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\obj\x86\Debug\BatchCoreService.csproj.CoreCompileInputs.cache
-D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\obj\x86\Debug\BatchCoreService.csproj.CopyComplete
 D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\obj\x86\Debug\BatchCoreService.exe
 D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\obj\x86\Debug\BatchCoreService.pdb
+D:\Projects\SharpSCADA\SCADA\Program\BatchCoreService\obj\x86\Debug\BatchCoreService.csprojResolveAssemblyReference.cache

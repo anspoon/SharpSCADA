@@ -3,8 +3,6 @@ D:\Projects\SharpSCADA\SCADA\Program\SiemensPLCDriver\bin\Debug\SiemensPLCDriver
 D:\Projects\SharpSCADA\SCADA\Program\SiemensPLCDriver\bin\Debug\DataService.dll
 D:\Projects\SharpSCADA\SCADA\Program\SiemensPLCDriver\bin\Debug\libnodave.net.dll
 D:\Projects\SharpSCADA\SCADA\Program\SiemensPLCDriver\bin\Debug\DataService.pdb
-D:\Projects\SharpSCADA\SCADA\Program\SiemensPLCDriver\obj\Debug\SiemensPLCDriver.csproj.AssemblyReference.cache
-D:\Projects\SharpSCADA\SCADA\Program\SiemensPLCDriver\obj\Debug\SiemensPLCDriver.csproj.CoreCompileInputs.cache
-D:\Projects\SharpSCADA\SCADA\Program\SiemensPLCDriver\obj\Debug\SiemensPLCDriver.csproj.CopyComplete
 D:\Projects\SharpSCADA\SCADA\Program\SiemensPLCDriver\obj\Debug\SiemensPLCDriver.dll
 D:\Projects\SharpSCADA\SCADA\Program\SiemensPLCDriver\obj\Debug\SiemensPLCDriver.pdb
+D:\Projects\SharpSCADA\SCADA\Program\SiemensPLCDriver\obj\Debug\SiemensPLCDriver.csprojResolveAssemblyReference.cache

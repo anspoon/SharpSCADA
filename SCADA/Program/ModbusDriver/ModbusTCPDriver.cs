@@ -8,10 +8,14 @@ using System.Text;
 
 namespace ModbusDriver
 {
+    /// <summary>
+    /// IPLCDriver : IDriver, IReaderWriter；IDriver : IDisposable
+    /// </summary>
     [Description("Modbus TCP协议")]
-    public sealed class ModbusTCPReader : IPLCDriver, IMultiReadWrite                    //IPLCDriver : IDriver, IReaderWriter       IDriver : IDisposable
+    public sealed class ModbusTCPReader : IPLCDriver, IMultiReadWrite                    
     {
-        #region
+        #region PDU
+
         public int PDU
         {
             // get { return 252; }
@@ -39,6 +43,7 @@ namespace ModbusDriver
                     dv.Area = slaveId;
                 address = address.Substring(sindex + 1);
             }
+
             switch (address[0])
             {
                 case '0':
@@ -209,7 +214,7 @@ namespace ModbusDriver
             data[0] = 0;				// Slave id high byte
             data[1] = 0;				// Slave id low byte
             data[5] = 6;					// Message size
-            data[6] = (byte)id;					// Slave address
+            data[6] = (byte)2;					// Slave address
             data[7] = function;				// Function code
             byte[] _adr = BitConverter.GetBytes(IPAddress.HostToNetworkOrder((short)startAddress));
             data[8] = _adr[0];				// Start address
@@ -228,7 +233,7 @@ namespace ModbusDriver
             byte[] _size = BitConverter.GetBytes(IPAddress.HostToNetworkOrder((short)(5 + numBytes)));
             data[4] = _size[0];				// Complete message size in bytes
             data[5] = _size[1];				// Complete message size in bytes
-            data[6] = (byte)id;					// Slave address
+            data[6] = (byte)2;					// Slave address
             data[7] = function;				// Function code
             byte[] _adr = BitConverter.GetBytes(IPAddress.HostToNetworkOrder((short)startAddress));
             data[8] = _adr[0];				// Start address
