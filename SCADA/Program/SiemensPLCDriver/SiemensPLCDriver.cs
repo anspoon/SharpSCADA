@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Text;
-using System.Timers;
 using DataService;
 
 namespace SiemensPLCDriver

@@ -4,4 +4,6 @@ D:\Projects\SharpSCADA\SCADA\Program\ClientDriver\bin\Debug\DataService.dll
 D:\Projects\SharpSCADA\SCADA\Program\ClientDriver\bin\Debug\DataService.pdb
 D:\Projects\SharpSCADA\SCADA\Program\ClientDriver\obj\Debug\ClientDriver.dll
 D:\Projects\SharpSCADA\SCADA\Program\ClientDriver\obj\Debug\ClientDriver.pdb
-D:\Projects\SharpSCADA\SCADA\Program\ClientDriver\obj\Debug\ClientDriver.csprojResolveAssemblyReference.cache
+D:\Projects\SharpSCADA\SCADA\Program\ClientDriver\obj\Debug\ClientDriver.csproj.AssemblyReference.cache
+D:\Projects\SharpSCADA\SCADA\Program\ClientDriver\obj\Debug\ClientDriver.csproj.CoreCompileInputs.cache
+D:\Projects\SharpSCADA\SCADA\Program\ClientDriver\obj\Debug\ClientDriver.csproj.CopyComplete
